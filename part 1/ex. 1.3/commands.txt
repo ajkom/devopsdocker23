@@ -1,4 +1,0 @@
-alexkomar@alex-macbook ~ % docker run -d -it devopsdockeruh/simple-web-service:ubuntu
-alexkomar@alex-macbook ~ % docker ps -a
-alexkomar@alex-macbook ~ % docker exec -it c18fade79f8d bash
-root@c18fade79f8d:/usr/src/app# tail -f ./text.log
