@@ -1,0 +1,7 @@
+https://pizzeria-90no.onrender.com/home
+
+I used render.com. It has a native support for Docker, so I didn't need to configure anything else.
+I created an acc and connected my GitHub account. For the purposes of this task I used a very old and simple
+website that I created years ago for a school course. I researched how to run html in Docker and used httpd in Dockerfile.
+
+On render.com I chose "static site" and simply selected the repository and followed the instructions which were pretty straightforward.
